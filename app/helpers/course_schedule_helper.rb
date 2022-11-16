@@ -1,0 +1,2 @@
+module CourseScheduleHelper
+end
